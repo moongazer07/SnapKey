@@ -80,37 +80,37 @@ Looking for More Information? Got Questions or Need Help?
 [<img src="https://github.com/user-attachments/assets/0c6d7564-6471-49f2-9367-64f7bffb7e37" alt="Wikitest" width="50%" />](https://github.com/cafali/SnapKey/wiki)
 
 - **[About ℹ️](https://github.com/cafali/SnapKey/wiki/About)**  
-  Discover Snapkey, explore its features, and see how it can benefit you.
+  Discover SnapKey, explore its features and see how it can benefit you
 
 - **[Code Breakdown 🧠](https://github.com/cafali/SnapKey/wiki/Code-Breakdown)**  
-  Dive into the details of SnapKey’s code structure.
+  Dive into the details of SnapKey’s code structure
 
 - **[Compatibility List 🎮](https://github.com/cafali/SnapKey/wiki/Compatibility-List)**  
-  Games that work with SnapKey and those that don't.
+  Compatibility status of games with SnapKey
 
 - **[FAQ❓](https://github.com/cafali/SnapKey/wiki/FAQ)**  
-  Find answers to common questions about Snapkey.
+  Find answers to common questions about SnapKey
 
 - **[License 📜](https://github.com/cafali/SnapKey/wiki/License)**  
-  Overview of Snapkey’s licensing.
+  Overview of SnapKey’s licensing
 
 - **[Rebinding Keys ⌨️](https://github.com/cafali/SnapKey/wiki/Rebinding-Keys)**  
-  Instructions on how to rebind keys.
+  Instructions on how to rebind keys
 
 - **[Setup 🛠️](https://github.com/cafali/SnapKey/wiki/Setup)**  
-  General setup instructions for getting Snapkey up and running on your system.
+  General setup instructions for getting Snapkey up and running on your system
 
 - **[Setup Linux 🐧](https://github.com/cafali/SnapKey/wiki/Setup-Linux)**  
-  Setting up Snapkey on Linux distributions.
+  Setting up SnapKey on Linux distributions
 
 - **[System Requirements 🖥️](https://github.com/cafali/SnapKey/wiki/System-Requirements)**  
-  SnapKey System Requirments.
+  SnapKey System Requirements
 
 - **[Troubleshoot 🔧](https://github.com/cafali/SnapKey/wiki/Troubleshoot)**  
-  Solutions and tips for troubleshooting common issues with Snapkey.
+  Solutions and tips for troubleshooting common issues with SnapKey
 
-- **[Updates 🔄](https://github.com/cafali/SnapKey/wiki/Updates)**  
-  SnapKey Version Updates.
+- **[Changelog 🔄](https://github.com/cafali/SnapKey/wiki/Updates)**  
+  View SnapKey releases and changes
 ----
 
 <p align="center">
