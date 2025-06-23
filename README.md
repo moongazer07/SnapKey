@@ -42,8 +42,6 @@ Download
 
 **SnapKey in Action**
 --------------------------------------------------------------------------------------------------
-![Explain](https://github.com/user-attachments/assets/7d11c221-33d8-43ea-839b-bfe276332593)
-
 - When you press and hold down the **"A"** key, SnapKey remembers it.
 - If you then press the **"D"** key while still holding down **"A"** SnapKey automatically releases the **"A"** key for you.
 - The same happens if you press **"A"** while holding **"D"** — SnapKey releases the **"D"** key.
@@ -59,7 +57,9 @@ Download
 hold down the **"A"** key and tap the **"D"** key repeatedly, each press of **"D"** will temporarily override 
 the **"A"** key. When you release the **"D"** key, the action associated with the **"A"** key will resume, as 
 long as you're still holding it down. The same principle applies if you start with **"D"** held down and 
-press **"A"** instead. 
+press **"A"** instead.
+
+*NOTE: SnapKey and similar solutions have been disallowed in certain games; illustrations shown are for demonstrative purposes only.*
 
 ![Snapkey](https://github.com/user-attachments/assets/504ffa5e-50d3-4a77-9016-70f22d143cb1)
 
@@ -68,55 +68,6 @@ press **"A"** instead.
 - Automatically releases a previously held key when a new key (A/D) & (W/S) is pressed.
 
 <img src="https://github.com/user-attachments/assets/4453aba4-b9bc-45e8-8a80-80caad39347b" width="600" height="338" alt="STRAFE">
-
-**Quick Guide to Using SnapKey**
---------------------------------------------------------------------------------------------------
-![use](https://github.com/user-attachments/assets/4d9fdf11-ec72-459c-995e-364bf1fc8d66)
-
-
-
-1. Get SnapKey:
-   - [Download](https://github.com/cafali/SnapKey/releases), Unzip and Launch SnapKey.exe
-
-<img src="https://github.com/user-attachments/assets/7f8f1b06-01a8-4bc9-af9f-87d0b19b4e15" alt="Folder" width="80%">
-
-
-
-
-
-
-2. System Tray:
-   - SnapKey will appear in your system tray
-
-![tray](https://github.com/user-attachments/assets/26c08735-76f2-4bc0-aa75-44c9a866b453)
-
-
-
-3. You're All Set:
-   - SnapKey is now running and is ready to use
-  
-   
-4. Rebind Keys (Optional):
-   - [Rebind your keys](https://github.com/cafali/SnapKey/wiki/Rebinding-Keys) if you're using a nonstandard keyboard layout or if you want to map different keys
-
-Disable SnapKey
---------------------------------------------------------------------------------------------------
-- Double-click the tray icon to disable SnapKey directly or Right-click the SnapKey icon in the system tray and select "Disable SnapKey". This option disables the entire SnapKey functionality of the keys that are set in the config file while keeping the SnapKey process and the software running in the tray.
-
-![image](https://github.com/user-attachments/assets/4f9d8d30-4674-4361-bc87-84ee70ce4116)
-
-
-
-
-Exit SnapKey
---------------------------------------------------------------------------------------------------
-   - Right-click the SnapKey icon in the system tray and select "Exit SnapKey"
-
-![image](https://github.com/user-attachments/assets/c3a9534e-ed8b-4258-be56-37b6117c1814)
-
-
-
-
 
 **Linux Support**
 --------------------------------------------------------------------------------------------------
